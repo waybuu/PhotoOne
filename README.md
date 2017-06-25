@@ -1,2 +1,3 @@
 # PhotoOne
 My photo website with all the capabilities in the world, including Search!
+This is the first version of my site...
